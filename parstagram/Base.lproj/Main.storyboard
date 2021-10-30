@@ -229,7 +229,7 @@
         <!--Navigation Controller-->
         <scene sceneID="366-CX-eLf">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="d8Q-7o-OpS" sceneMemberID="viewController">
+                <navigationController storyboardIdentifier="FeedNavigationController" automaticallyAdjustsScrollViewInsets="NO" id="d8Q-7o-OpS" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="xVs-WG-4oy">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="56"/>
